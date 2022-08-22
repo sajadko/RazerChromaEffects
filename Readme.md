@@ -1,4 +1,4 @@
-<h1 align="center">"Razer Chroma Effects" created by myself 🍕</h1>
+<h1 align="center">"Razer Chroma Effects" made by me 🍕</h1>
 <p align="center">You can find the demo and compatible devices in each directory 😁</p>
 <p align="center">Feel free to change and effect compatible with your devices 🍟</p>
 
